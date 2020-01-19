@@ -1,0 +1,6 @@
+sources:
+    test:
+        driver: bluesky-msgpack-catalog
+        args:
+            paths:
+                - "/home/ihumphrey/Dev/scratch/assets/*.msgpack"
