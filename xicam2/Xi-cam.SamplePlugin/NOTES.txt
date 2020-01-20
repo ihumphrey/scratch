@@ -1,0 +1,7 @@
+LinearWorkflowEditor does NOT work with operations currently.
+
+xicam.core, xicam.plugins, and xicam.gui need to be on operation branch.
+
+Use an action type for a button in the param tree?
+
+Do operation plugins need entry points (did Saxs use entrypoints or yaspy plugins for its processingplugins?)
